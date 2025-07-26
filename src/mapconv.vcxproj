@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D79D3F86-7DA1-30F2-9B2C-920C27F57BAA}</ProjectGuid>
+    <ProjectGuid>{5244D961-956A-3F2F-B689-C4000D79EE47}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -63,25 +63,25 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Program\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Program\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mapconv.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">mapconv</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Program\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Program\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mapconv.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">mapconv</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Program\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Program\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">mapconv.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">mapconv</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Program\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Program\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">mapconv.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">mapconv</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
@@ -128,9 +128,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/Debug/mapconv.lib</ImportLibrary>
+      <ImportLibrary>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/Debug/mapconv.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/Program/mapconv.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/Program/mapconv.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -179,9 +179,9 @@
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/Release/mapconv.lib</ImportLibrary>
+      <ImportLibrary>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/Release/mapconv.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/Program/mapconv.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/Program/mapconv.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -230,9 +230,9 @@
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/MinSizeRel/mapconv.lib</ImportLibrary>
+      <ImportLibrary>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/MinSizeRel/mapconv.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/Program/mapconv.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/Program/mapconv.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -280,9 +280,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/RelWithDebInfo/mapconv.lib</ImportLibrary>
+      <ImportLibrary>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/RelWithDebInfo/mapconv.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/Program/mapconv.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/Program/mapconv.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -291,11 +291,11 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -303,12 +303,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\Info.plist.in.xml;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\plistHelper.in.hpp;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-actor.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-arch.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-data.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-file-types.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-globals.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-gtk.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-os.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-rage.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-screen.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-singletons.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\Info.plist.in.xml;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\plistHelper.in.hpp;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-actor.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-arch.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-data.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-file-types.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-globals.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-gtk.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-os.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-rage.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-screen.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-singletons.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -316,12 +316,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\Info.plist.in.xml;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\plistHelper.in.hpp;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-actor.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-arch.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-data.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-file-types.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-globals.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-gtk.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-os.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-rage.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-screen.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-singletons.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\Info.plist.in.xml;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\plistHelper.in.hpp;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-actor.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-arch.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-data.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-file-types.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-globals.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-gtk.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-os.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-rage.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-screen.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-singletons.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -329,12 +329,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\Info.plist.in.xml;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\plistHelper.in.hpp;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-actor.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-arch.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-data.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-file-types.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-globals.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-gtk.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-os.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-rage.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-screen.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-singletons.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\Info.plist.in.xml;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\plistHelper.in.hpp;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-actor.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-arch.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-data.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-file-types.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-globals.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-gtk.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-os.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-rage.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-screen.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-singletons.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/src/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/src/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -342,18 +342,18 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\Info.plist.in.xml;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\Xcode\plistHelper.in.hpp;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-actor.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-arch.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-data.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-file-types.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-globals.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-gtk.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-os.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-rage.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-screen.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeData-singletons.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\Info.plist.in.xml;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\Xcode\plistHelper.in.hpp;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mmmagic.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-actor.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-arch.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-data.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-file-types.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-globals.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-gtk.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-os.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-rage.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-screen.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeData-singletons.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeProject-mapconv.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\mapconv.cpp" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\archutils\Win32\mapconv.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\ZERO_CHECK.vcxproj">
-      <Project>{623B3676-26C6-340C-9FD9-9E12F1032C42}</Project>
+    <ProjectReference Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\ZERO_CHECK.vcxproj">
+      <Project>{AC6EEBB0-59BD-3D86-897F-A5EF60A53D24}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\get.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\maketables.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\pcre.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\study.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\get.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\maketables.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\pcre.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\study.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\internal.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\pcre\pcre.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\internal.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\pcre\pcre.h" />
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

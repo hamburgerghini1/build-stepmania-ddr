@@ -1,1485 +1,1485 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\anubis.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\anubis.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\blowfish.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\blowfish.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\camellia.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\camellia.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\cast5.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\cast5.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\des.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\des.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\kasumi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\kasumi.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\khazad.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\khazad.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\kseed.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\kseed.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\multi2.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\multi2.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\noekeon.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\noekeon.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\rc2.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\rc2.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\rc5.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\rc5.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\rc6.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\rc6.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\skipjack.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\skipjack.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\xtea.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\xtea.c">
       <Filter>ciphers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\aes\aes.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\aes\aes.c">
       <Filter>ciphers\aes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\safer\safer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\safer\safer.c">
       <Filter>ciphers\safer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\safer\saferp.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\safer\saferp.c">
       <Filter>ciphers\safer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\ciphers\twofish\twofish.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\ciphers\twofish\twofish.c">
       <Filter>ciphers\twofish</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_add_aad.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_add_aad.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_add_nonce.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_add_nonce.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_done.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_init.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_memory.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_process.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_reset.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_reset.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ccm\ccm_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ccm\ccm_test.c">
       <Filter>encauth\ccm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_add_aad.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_add_aad.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_decrypt.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_done.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_encrypt.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_init.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_memory.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_setiv.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_setiv_rfc7905.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_setiv_rfc7905.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\chachapoly\chacha20poly1305_test.c">
       <Filter>encauth\chachapoly</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_addheader.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_addheader.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_decrypt.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_decrypt_verify_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_decrypt_verify_memory.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_done.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_encrypt.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_encrypt_authenticate_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_encrypt_authenticate_memory.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_init.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\eax\eax_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\eax\eax_test.c">
       <Filter>encauth\eax</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_add_aad.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_add_aad.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_add_iv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_add_iv.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_done.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_gf_mult.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_gf_mult.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_init.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_memory.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_mult_h.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_mult_h.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_process.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_reset.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_reset.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\gcm\gcm_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\gcm\gcm_test.c">
       <Filter>encauth\gcm</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_decrypt.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_decrypt_verify_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_decrypt_verify_memory.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_done_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_done_decrypt.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_done_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_done_encrypt.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_encrypt.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_encrypt_authenticate_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_encrypt_authenticate_memory.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_init.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_ntz.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_ntz.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_shift_xor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_shift_xor.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\ocb_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\ocb_test.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb\s_ocb_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb\s_ocb_done.c">
       <Filter>encauth\ocb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_add_aad.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_add_aad.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt_last.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt_last.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt_verify_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_decrypt_verify_memory.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_done.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt_authenticate_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt_authenticate_memory.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt_last.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_encrypt_last.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_init.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_int_ntz.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_int_ntz.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_int_xor_blocks.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_int_xor_blocks.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\encauth\ocb3\ocb3_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\encauth\ocb3\ocb3_test.c">
       <Filter>encauth\ocb3</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\blake2b.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\blake2b.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\blake2s.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\blake2s.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\md2.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\md2.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\md4.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\md4.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\md5.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\md5.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\rmd128.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\rmd128.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\rmd160.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\rmd160.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\rmd256.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\rmd256.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\rmd320.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\rmd320.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha1.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha1.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha3.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha3.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha3_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha3_test.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\tiger.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\tiger.c">
       <Filter>hashes</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\chc\chc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\chc\chc.c">
       <Filter>hashes\chc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\helper\hash_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\helper\hash_file.c">
       <Filter>hashes\helper</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\helper\hash_filehandle.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\helper\hash_filehandle.c">
       <Filter>hashes\helper</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\helper\hash_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\helper\hash_memory.c">
       <Filter>hashes\helper</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\helper\hash_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\helper\hash_memory_multi.c">
       <Filter>hashes\helper</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha224.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha224.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha256.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha256.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha384.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha384.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha512.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha512.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha512_224.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha512_224.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\sha2\sha512_256.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\sha2\sha512_256.c">
       <Filter>hashes\sha2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\hashes\whirl\whirl.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\hashes\whirl\whirl.c">
       <Filter>hashes\whirl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2bmac.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2bmac.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2bmac_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2bmac_file.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2bmac_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2bmac_memory.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2bmac_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2bmac_memory_multi.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2bmac_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2bmac_test.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2smac.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2smac.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2smac_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2smac_file.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2smac_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2smac_memory.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2smac_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2smac_memory_multi.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\blake2\blake2smac_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\blake2\blake2smac_test.c">
       <Filter>mac\blake2</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_done.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_file.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_init.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_memory.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_memory_multi.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_process.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\f9\f9_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\f9\f9_test.c">
       <Filter>mac\f9</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_done.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_file.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_init.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_memory.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_memory_multi.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_process.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\hmac\hmac_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\hmac\hmac_test.c">
       <Filter>mac\hmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_done.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_file.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_init.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_memory.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_memory_multi.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_process.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\omac\omac_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\omac\omac_test.c">
       <Filter>mac\omac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pelican\pelican.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pelican\pelican.c">
       <Filter>mac\pelican</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pelican\pelican_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pelican\pelican_memory.c">
       <Filter>mac\pelican</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pelican\pelican_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pelican\pelican_test.c">
       <Filter>mac\pelican</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_done.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_file.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_init.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_memory.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_memory_multi.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_ntz.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_ntz.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_process.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_shift_xor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_shift_xor.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\pmac\pmac_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\pmac\pmac_test.c">
       <Filter>mac\pmac</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\poly1305\poly1305.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\poly1305\poly1305.c">
       <Filter>mac\poly1305</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\poly1305\poly1305_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\poly1305\poly1305_file.c">
       <Filter>mac\poly1305</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\poly1305\poly1305_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\poly1305\poly1305_memory.c">
       <Filter>mac\poly1305</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\poly1305\poly1305_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\poly1305\poly1305_memory_multi.c">
       <Filter>mac\poly1305</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\poly1305\poly1305_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\poly1305\poly1305_test.c">
       <Filter>mac\poly1305</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_done.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_file.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_file.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_init.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_memory.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_memory.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_memory_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_memory_multi.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_process.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\mac\xcbc\xcbc_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\mac\xcbc\xcbc_test.c">
       <Filter>mac\xcbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\gmp_desc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\gmp_desc.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\ltm_desc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\ltm_desc.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\multi.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\radix_to_bin.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\radix_to_bin.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\rand_bn.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\rand_bn.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\rand_prime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\rand_prime.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\tfm_desc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\tfm_desc.c">
       <Filter>math</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\math\fp\ltc_ecc_fp_mulmod.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\math\fp\ltc_ecc_fp_mulmod.c">
       <Filter>math\fp</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\adler32.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\adler32.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\burn_stack.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\burn_stack.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\compare_testvector.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\compare_testvector.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crc32.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crc32.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\error_to_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\error_to_string.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\mem_neq.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\mem_neq.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\pk_get_oid.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\pk_get_oid.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\zeromem.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\zeromem.c">
       <Filter>misc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\base64\base64_decode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\base64\base64_decode.c">
       <Filter>misc\base64</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\base64\base64_encode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\base64\base64_encode.c">
       <Filter>misc\base64</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_argchk.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_argchk.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_cipher_descriptor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_cipher_descriptor.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_cipher_is_valid.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_cipher_is_valid.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_constants.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_constants.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_cipher.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_cipher.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_cipher_any.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_cipher_any.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_cipher_id.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_cipher_id.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_hash.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_hash_any.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_hash_any.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_hash_id.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_hash_id.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_hash_oid.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_hash_oid.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_find_prng.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_find_prng.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_fsa.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_fsa.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_hash_descriptor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_hash_descriptor.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_hash_is_valid.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_hash_is_valid.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_inits.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_inits.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_ltc_mp_descriptor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_ltc_mp_descriptor.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_prng_descriptor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_prng_descriptor.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_prng_is_valid.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_prng_is_valid.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_prng_rng_descriptor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_prng_rng_descriptor.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_all_ciphers.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_all_ciphers.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_all_hashes.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_all_hashes.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_all_prngs.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_all_prngs.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_cipher.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_cipher.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_hash.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_register_prng.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_register_prng.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_sizes.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_sizes.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_unregister_cipher.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_unregister_cipher.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_unregister_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_unregister_hash.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\crypt\crypt_unregister_prng.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\crypt\crypt_unregister_prng.c">
       <Filter>misc\crypt</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\hkdf\hkdf.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\hkdf\hkdf.c">
       <Filter>misc\hkdf</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\hkdf\hkdf_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\hkdf\hkdf_test.c">
       <Filter>misc\hkdf</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\pkcs5\pkcs_5_1.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\pkcs5\pkcs_5_1.c">
       <Filter>misc\pkcs5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\pkcs5\pkcs_5_2.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\pkcs5\pkcs_5_2.c">
       <Filter>misc\pkcs5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\misc\pkcs5\pkcs_5_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\misc\pkcs5\pkcs_5_test.c">
       <Filter>misc\pkcs5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_decrypt.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_done.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_encrypt.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_getiv.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_setiv.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cbc\cbc_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cbc\cbc_start.c">
       <Filter>modes\cbc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_decrypt.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_done.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_encrypt.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_getiv.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_setiv.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\cfb\cfb_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\cfb\cfb_start.c">
       <Filter>modes\cfb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_decrypt.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_done.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_encrypt.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_getiv.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_setiv.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_start.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ctr\ctr_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ctr\ctr_test.c">
       <Filter>modes\ctr</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ecb\ecb_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ecb\ecb_decrypt.c">
       <Filter>modes\ecb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ecb\ecb_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ecb\ecb_done.c">
       <Filter>modes\ecb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ecb\ecb_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ecb\ecb_encrypt.c">
       <Filter>modes\ecb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ecb\ecb_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ecb\ecb_start.c">
       <Filter>modes\ecb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_decrypt.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_done.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_encrypt.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_getiv.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_setiv.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_start.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\f8\f8_test_mode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\f8\f8_test_mode.c">
       <Filter>modes\f8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_decrypt.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_done.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_encrypt.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_getiv.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_process.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_process.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_setiv.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_start.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\lrw\lrw_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\lrw\lrw_test.c">
       <Filter>modes\lrw</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_decrypt.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_done.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_encrypt.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_getiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_getiv.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_setiv.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_setiv.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\ofb\ofb_start.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\ofb\ofb_start.c">
       <Filter>modes\ofb</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_decrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_decrypt.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_done.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_encrypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_encrypt.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_init.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_init.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_mult_x.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_mult_x.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\modes\xts\xts_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\modes\xts\xts_test.c">
       <Filter>modes\xts</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\bit\der_decode_bit_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\bit\der_decode_bit_string.c">
       <Filter>pk\asn1\der\bit</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\bit\der_decode_raw_bit_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\bit\der_decode_raw_bit_string.c">
       <Filter>pk\asn1\der\bit</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\bit\der_encode_bit_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\bit\der_encode_bit_string.c">
       <Filter>pk\asn1\der\bit</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\bit\der_encode_raw_bit_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\bit\der_encode_raw_bit_string.c">
       <Filter>pk\asn1\der\bit</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\bit\der_length_bit_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\bit\der_length_bit_string.c">
       <Filter>pk\asn1\der\bit</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\boolean\der_decode_boolean.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\boolean\der_decode_boolean.c">
       <Filter>pk\asn1\der\boolean</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\boolean\der_encode_boolean.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\boolean\der_encode_boolean.c">
       <Filter>pk\asn1\der\boolean</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\boolean\der_length_boolean.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\boolean\der_length_boolean.c">
       <Filter>pk\asn1\der\boolean</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\choice\der_decode_choice.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\choice\der_decode_choice.c">
       <Filter>pk\asn1\der\choice</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_decode_generalizedtime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_decode_generalizedtime.c">
       <Filter>pk\asn1\der\generalizedtime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_encode_generalizedtime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_encode_generalizedtime.c">
       <Filter>pk\asn1\der\generalizedtime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_length_generalizedtime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\generalizedtime\der_length_generalizedtime.c">
       <Filter>pk\asn1\der\generalizedtime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\ia5\der_decode_ia5_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\ia5\der_decode_ia5_string.c">
       <Filter>pk\asn1\der\ia5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\ia5\der_encode_ia5_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\ia5\der_encode_ia5_string.c">
       <Filter>pk\asn1\der\ia5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\ia5\der_length_ia5_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\ia5\der_length_ia5_string.c">
       <Filter>pk\asn1\der\ia5</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\integer\der_decode_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\integer\der_decode_integer.c">
       <Filter>pk\asn1\der\integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\integer\der_encode_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\integer\der_encode_integer.c">
       <Filter>pk\asn1\der\integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\integer\der_length_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\integer\der_length_integer.c">
       <Filter>pk\asn1\der\integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_decode_object_identifier.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_decode_object_identifier.c">
       <Filter>pk\asn1\der\object_identifier</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_encode_object_identifier.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_encode_object_identifier.c">
       <Filter>pk\asn1\der\object_identifier</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_length_object_identifier.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\object_identifier\der_length_object_identifier.c">
       <Filter>pk\asn1\der\object_identifier</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\octet\der_decode_octet_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\octet\der_decode_octet_string.c">
       <Filter>pk\asn1\der\octet</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\octet\der_encode_octet_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\octet\der_encode_octet_string.c">
       <Filter>pk\asn1\der\octet</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\octet\der_length_octet_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\octet\der_length_octet_string.c">
       <Filter>pk\asn1\der\octet</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\printable_string\der_decode_printable_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\printable_string\der_decode_printable_string.c">
       <Filter>pk\asn1\der\printable_string</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\printable_string\der_encode_printable_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\printable_string\der_encode_printable_string.c">
       <Filter>pk\asn1\der\printable_string</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\printable_string\der_length_printable_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\printable_string\der_length_printable_string.c">
       <Filter>pk\asn1\der\printable_string</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_ex.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_ex.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_flexi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_flexi.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_sequence_multi.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_subject_public_key_info.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_decode_subject_public_key_info.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_sequence_ex.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_sequence_ex.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_sequence_multi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_sequence_multi.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_subject_public_key_info.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_encode_subject_public_key_info.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_length_sequence.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_length_sequence.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_sequence_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_sequence_free.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\sequence\der_sequence_shrink.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\sequence\der_sequence_shrink.c">
       <Filter>pk\asn1\der\sequence</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\set\der_encode_set.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\set\der_encode_set.c">
       <Filter>pk\asn1\der\set</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\set\der_encode_setof.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\set\der_encode_setof.c">
       <Filter>pk\asn1\der\set</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\short_integer\der_decode_short_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\short_integer\der_decode_short_integer.c">
       <Filter>pk\asn1\der\short_integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\short_integer\der_encode_short_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\short_integer\der_encode_short_integer.c">
       <Filter>pk\asn1\der\short_integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\short_integer\der_length_short_integer.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\short_integer\der_length_short_integer.c">
       <Filter>pk\asn1\der\short_integer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\teletex_string\der_decode_teletex_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\teletex_string\der_decode_teletex_string.c">
       <Filter>pk\asn1\der\teletex_string</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\teletex_string\der_length_teletex_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\teletex_string\der_length_teletex_string.c">
       <Filter>pk\asn1\der\teletex_string</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utctime\der_decode_utctime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utctime\der_decode_utctime.c">
       <Filter>pk\asn1\der\utctime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utctime\der_encode_utctime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utctime\der_encode_utctime.c">
       <Filter>pk\asn1\der\utctime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utctime\der_length_utctime.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utctime\der_length_utctime.c">
       <Filter>pk\asn1\der\utctime</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utf8\der_decode_utf8_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utf8\der_decode_utf8_string.c">
       <Filter>pk\asn1\der\utf8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utf8\der_encode_utf8_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utf8\der_encode_utf8_string.c">
       <Filter>pk\asn1\der\utf8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\asn1\der\utf8\der_length_utf8_string.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\asn1\der\utf8\der_length_utf8_string.c">
       <Filter>pk\asn1\der\utf8</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_check_pubkey.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_check_pubkey.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_export.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_export_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_export_key.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_free.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_generate_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_generate_key.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_import.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_set.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_set.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_set_pg_dhparam.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_set_pg_dhparam.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dh\dh_shared_secret.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dh\dh_shared_secret.c">
       <Filter>pk\dh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_decrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_decrypt_key.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_encrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_encrypt_key.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_export.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_free.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_generate_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_generate_key.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_generate_pqg.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_generate_pqg.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_import.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_make_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_make_key.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_set.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_set.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_set_pqg_dsaparam.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_set_pqg_dsaparam.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_shared_secret.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_shared_secret.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_sign_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_sign_hash.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_verify_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_verify_hash.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\dsa\dsa_verify_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\dsa\dsa_verify_key.c">
       <Filter>pk\dsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_ansi_x963_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_ansi_x963_export.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_ansi_x963_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_ansi_x963_import.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_decrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_decrypt_key.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_encrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_encrypt_key.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_export.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_free.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_get_size.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_get_size.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_import.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_make_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_make_key.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_shared_secret.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_shared_secret.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_sign_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_sign_hash.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_sizes.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_sizes.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_test.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ecc_verify_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ecc_verify_hash.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_is_valid_idx.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_is_valid_idx.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_map.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_map.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_mul2add.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_mul2add.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_mulmod.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_mulmod.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_mulmod_timing.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_mulmod_timing.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_points.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_points.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_projective_add_point.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_projective_add_point.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\ecc\ltc_ecc_projective_dbl_point.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\ecc\ltc_ecc_projective_dbl_point.c">
       <Filter>pk\ecc</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_decrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_decrypt_key.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_encrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_encrypt_key.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_export.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_exptmod.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_exptmod.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_free.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_import.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\katja\katja_make_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\katja\katja_make_key.c">
       <Filter>pk\katja</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_i2osp.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_i2osp.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_mgf1.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_mgf1.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_oaep_decode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_oaep_decode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_oaep_encode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_oaep_encode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_os2ip.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_os2ip.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_pss_decode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_pss_decode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_pss_encode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_pss_encode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_v1_5_decode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_v1_5_decode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\pkcs1\pkcs_1_v1_5_encode.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\pkcs1\pkcs_1_v1_5_encode.c">
       <Filter>pk\pkcs1</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_decrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_decrypt_key.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_encrypt_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_encrypt_key.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_export.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_export.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_exptmod.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_exptmod.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_free.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_free.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_get_size.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_get_size.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_import.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_import.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_import_pkcs8.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_import_pkcs8.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_import_x509.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_import_x509.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_make_key.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_make_key.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_set.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_set.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_sign_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_sign_hash.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_sign_saltlen_get.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_sign_saltlen_get.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\pk\rsa\rsa_verify_hash.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\pk\rsa\rsa_verify_hash.c">
       <Filter>pk\rsa</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\chacha20.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\chacha20.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\fortuna.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\fortuna.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\rc4.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\rc4.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\rng_get_bytes.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\rng_get_bytes.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\rng_make_prng.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\rng_make_prng.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\sober128.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\sober128.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\sprng.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\sprng.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\prngs\yarrow.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\prngs\yarrow.c">
       <Filter>prngs</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_crypt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_crypt.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_done.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_done.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_ivctr32.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_ivctr32.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_ivctr64.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_ivctr64.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_keystream.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_keystream.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_setup.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_setup.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\chacha\chacha_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\chacha\chacha_test.c">
       <Filter>stream\chacha</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\rc4\rc4_stream.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\rc4\rc4_stream.c">
       <Filter>stream\rc4</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\rc4\rc4_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\rc4\rc4_test.c">
       <Filter>stream\rc4</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\sober128\sober128_stream.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\sober128\sober128_stream.c">
       <Filter>stream\sober128</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\stream\sober128\sober128_test.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\stream\sober128\sober128_test.c">
       <Filter>stream\sober128</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_argchk.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_argchk.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_cfg.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_cfg.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_cipher.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_cipher.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_custom.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_custom.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_hash.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_hash.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_mac.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_mac.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_macros.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_macros.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_math.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_math.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_misc.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_misc.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_pk.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_pk.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_pkcs.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_pkcs.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\libtomcrypt\src\headers\tomcrypt_prng.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\src\libtomcrypt\src\headers\tomcrypt_prng.h">
       <Filter>headers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="ciphers">
-      <UniqueIdentifier>{4E4AB8F1-D4CA-3057-8513-DF4070228F47}</UniqueIdentifier>
+      <UniqueIdentifier>{A5DD76EC-10F1-362D-9633-0941A805829B}</UniqueIdentifier>
     </Filter>
     <Filter Include="ciphers\aes">
-      <UniqueIdentifier>{11D29714-8E85-31AF-AACC-CB3319AE9631}</UniqueIdentifier>
+      <UniqueIdentifier>{6CBB97BB-7B24-395D-8ED8-5D57719420B7}</UniqueIdentifier>
     </Filter>
     <Filter Include="ciphers\safer">
-      <UniqueIdentifier>{6CDD079F-43C7-3877-9E24-5CB9DA6248AA}</UniqueIdentifier>
+      <UniqueIdentifier>{2EAD117A-1CB4-3AC3-8A24-DAE554553B17}</UniqueIdentifier>
     </Filter>
     <Filter Include="ciphers\twofish">
-      <UniqueIdentifier>{1BA46B95-4407-3FD5-9A12-AC281725826E}</UniqueIdentifier>
+      <UniqueIdentifier>{4CD1D974-373B-3CF7-9A7E-2E396A532767}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth">
-      <UniqueIdentifier>{2F81EA48-611A-3A94-B633-D4BCF91144B5}</UniqueIdentifier>
+      <UniqueIdentifier>{487DBEFB-4F04-361D-B33F-B18F71AF8259}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\ccm">
-      <UniqueIdentifier>{23D7324A-0489-3B8A-A9B3-68A5B812E0E0}</UniqueIdentifier>
+      <UniqueIdentifier>{CEBB321F-103C-336F-90B1-A8C6A8417FC8}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\chachapoly">
-      <UniqueIdentifier>{C37916E9-350E-39D9-8096-E08D543493C1}</UniqueIdentifier>
+      <UniqueIdentifier>{74091A18-25CD-3966-8E55-11354F0564A4}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\eax">
-      <UniqueIdentifier>{E93F18D3-82B9-3E6B-AC02-6C4F2C11768D}</UniqueIdentifier>
+      <UniqueIdentifier>{80FFE989-4838-316F-B369-01E0997ED5D5}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\gcm">
-      <UniqueIdentifier>{ED654DDC-D6CC-36E5-9738-38099934C00A}</UniqueIdentifier>
+      <UniqueIdentifier>{E5571200-DAE5-308C-BA17-2A6CA7BA5083}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\ocb">
-      <UniqueIdentifier>{2B223CB4-5298-328D-8B48-C63604C5E9DE}</UniqueIdentifier>
+      <UniqueIdentifier>{E063FCD8-ACF6-3270-B20F-1A0167A4050A}</UniqueIdentifier>
     </Filter>
     <Filter Include="encauth\ocb3">
-      <UniqueIdentifier>{2703F8E1-9962-3442-86B7-0E52F9701EEB}</UniqueIdentifier>
+      <UniqueIdentifier>{ADCE2EB1-24FE-31B8-8598-DAC2A985DDAF}</UniqueIdentifier>
     </Filter>
     <Filter Include="hashes">
-      <UniqueIdentifier>{7C6C47F2-239C-3407-94FC-FA45C3DE37CE}</UniqueIdentifier>
+      <UniqueIdentifier>{ACD05383-A96A-3510-96F1-FB2537D43C64}</UniqueIdentifier>
     </Filter>
     <Filter Include="hashes\chc">
-      <UniqueIdentifier>{46F7569F-A4AE-369D-B717-46CFDBECACF9}</UniqueIdentifier>
+      <UniqueIdentifier>{F00E6BE4-97A4-323C-A5E6-EF7EABDF51F0}</UniqueIdentifier>
     </Filter>
     <Filter Include="hashes\helper">
-      <UniqueIdentifier>{909F379D-D432-3592-BE9A-FEB7EF552E23}</UniqueIdentifier>
+      <UniqueIdentifier>{8BAD77A8-7270-3E92-A025-E01214722CA5}</UniqueIdentifier>
     </Filter>
     <Filter Include="hashes\sha2">
-      <UniqueIdentifier>{5F979F31-D501-357D-A409-A8319B81E191}</UniqueIdentifier>
+      <UniqueIdentifier>{54234E76-5B83-3984-B0AA-2FADD397E489}</UniqueIdentifier>
     </Filter>
     <Filter Include="hashes\whirl">
-      <UniqueIdentifier>{3325DF34-FF33-365C-A4AA-CF2FC465E77A}</UniqueIdentifier>
+      <UniqueIdentifier>{D6B1FA83-40B2-3447-B3A7-25E78EA822B1}</UniqueIdentifier>
     </Filter>
     <Filter Include="headers">
-      <UniqueIdentifier>{B31C120C-2FFC-3DBF-8CF8-C31453B1B4F8}</UniqueIdentifier>
+      <UniqueIdentifier>{11A90E3E-8FC2-34C0-B382-A8CB38DC4710}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac">
-      <UniqueIdentifier>{9113C828-C463-3724-9399-BB3D14C00CA9}</UniqueIdentifier>
+      <UniqueIdentifier>{14B97B54-2E10-3572-85F1-430B15558520}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\blake2">
-      <UniqueIdentifier>{E5CB4C07-E04D-3116-9FEF-D13125CA0AB4}</UniqueIdentifier>
+      <UniqueIdentifier>{C9979C4C-8FBC-3D16-8BB7-048DA1469CBE}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\f9">
-      <UniqueIdentifier>{1A184008-503D-302C-8D17-83EC2789B9CD}</UniqueIdentifier>
+      <UniqueIdentifier>{673BC7E9-F015-3023-8E75-4D390B8268E8}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\hmac">
-      <UniqueIdentifier>{0A2E3D1A-430C-30DC-82E7-556E6A9506CD}</UniqueIdentifier>
+      <UniqueIdentifier>{BBB30795-D276-30DB-8384-98EA6FF60F77}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\omac">
-      <UniqueIdentifier>{A6CBC4C4-BF91-3E62-9F86-C58096FEDBB6}</UniqueIdentifier>
+      <UniqueIdentifier>{E9953DC3-5D1D-38A6-B231-DB97D99E23CD}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\pelican">
-      <UniqueIdentifier>{7AC99C21-04EE-3332-A46E-837F2C16FF40}</UniqueIdentifier>
+      <UniqueIdentifier>{5CCB7CD4-9188-358B-93BE-72C8A50CBCBB}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\pmac">
-      <UniqueIdentifier>{54938C41-C845-3091-9FC7-E987ED372590}</UniqueIdentifier>
+      <UniqueIdentifier>{80F51A5A-F17B-31BA-B5B2-53638E93BB44}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\poly1305">
-      <UniqueIdentifier>{9E67768D-22E1-304E-9AB9-AEC7C2C9DEBB}</UniqueIdentifier>
+      <UniqueIdentifier>{F0AB2DE1-F97D-3A1E-9747-F2458D9E7F0A}</UniqueIdentifier>
     </Filter>
     <Filter Include="mac\xcbc">
-      <UniqueIdentifier>{BE697713-EA03-378E-B23A-95D41D716A63}</UniqueIdentifier>
+      <UniqueIdentifier>{3C4D0292-EB48-37AF-ADFF-C235B8E42023}</UniqueIdentifier>
     </Filter>
     <Filter Include="math">
-      <UniqueIdentifier>{6BB09D3C-6F95-320A-B3AD-ED2FF50E4309}</UniqueIdentifier>
+      <UniqueIdentifier>{14480696-2FCB-3A27-9B10-3DA7DCF931DE}</UniqueIdentifier>
     </Filter>
     <Filter Include="math\fp">
-      <UniqueIdentifier>{EFC84EC7-AD4A-320D-9FA4-2B3CAACB5F39}</UniqueIdentifier>
+      <UniqueIdentifier>{773C62F7-C03C-3118-943E-B788D462CAE5}</UniqueIdentifier>
     </Filter>
     <Filter Include="misc">
-      <UniqueIdentifier>{031D50B8-B6C6-3AE1-ADFE-968C0398FACD}</UniqueIdentifier>
+      <UniqueIdentifier>{E719A4FD-EE3F-307B-86A2-738A6108EB83}</UniqueIdentifier>
     </Filter>
     <Filter Include="misc\base64">
-      <UniqueIdentifier>{A05D7CE6-8E8F-3E91-A0CA-54007508CABC}</UniqueIdentifier>
+      <UniqueIdentifier>{5705A25B-823B-3030-9AAC-4539F30F59FF}</UniqueIdentifier>
     </Filter>
     <Filter Include="misc\crypt">
-      <UniqueIdentifier>{A81BEE37-7EC7-3D30-949D-7D9BCBD1DBAF}</UniqueIdentifier>
+      <UniqueIdentifier>{9CFC3435-514B-3B73-8CBA-361E79DFD1E5}</UniqueIdentifier>
     </Filter>
     <Filter Include="misc\hkdf">
-      <UniqueIdentifier>{A8A17345-4828-30F0-AC9F-FD1C0AF861A5}</UniqueIdentifier>
+      <UniqueIdentifier>{A3D9D996-F7B3-3F89-95D3-2E9F17444B92}</UniqueIdentifier>
     </Filter>
     <Filter Include="misc\pkcs5">
-      <UniqueIdentifier>{5032C9DE-FD16-359B-9A9D-67E442825DE0}</UniqueIdentifier>
+      <UniqueIdentifier>{0C67A5FA-4322-3265-95DB-51B7A61C6395}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes">
-      <UniqueIdentifier>{57E54FE4-E9B2-381F-8153-304D60175755}</UniqueIdentifier>
+      <UniqueIdentifier>{04E77732-27A6-3F3D-B289-1AEA89798EA2}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\cbc">
-      <UniqueIdentifier>{B67827C9-746F-3550-A43F-3C56816CD3AE}</UniqueIdentifier>
+      <UniqueIdentifier>{18913796-64D2-3CDC-9F3A-C40FA1B4824C}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\cfb">
-      <UniqueIdentifier>{FC2582CD-4198-3F17-B0CB-4A669725C2B5}</UniqueIdentifier>
+      <UniqueIdentifier>{3EBE9B76-5AC8-3C49-955B-E7F53D8B806E}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\ctr">
-      <UniqueIdentifier>{2FAE6480-9C8D-3847-8625-B34690776FF1}</UniqueIdentifier>
+      <UniqueIdentifier>{7A55CEDB-5BC7-3B03-A70A-85556EBF4D73}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\ecb">
-      <UniqueIdentifier>{01F511A0-ADA0-3754-A8CC-7AC265DAFB85}</UniqueIdentifier>
+      <UniqueIdentifier>{152520E7-B192-386B-9586-504B2DDD5524}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\f8">
-      <UniqueIdentifier>{04E39AFB-E038-3108-823A-BADFA1BD1F7D}</UniqueIdentifier>
+      <UniqueIdentifier>{3ED157CD-7E0F-3C4F-B2EC-D2F653CF16E2}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\lrw">
-      <UniqueIdentifier>{668846FB-A194-39D0-952D-36C943829ECD}</UniqueIdentifier>
+      <UniqueIdentifier>{CFD250F2-7CAB-39A2-82B3-72344401EE52}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\ofb">
-      <UniqueIdentifier>{71FC5D73-9511-3857-844F-F242B5A5919A}</UniqueIdentifier>
+      <UniqueIdentifier>{5B517E9D-83CB-3048-BE7D-EDF5FFA30F28}</UniqueIdentifier>
     </Filter>
     <Filter Include="modes\xts">
-      <UniqueIdentifier>{743EFC5C-958D-3F5F-8C74-E77EE7F5C00C}</UniqueIdentifier>
+      <UniqueIdentifier>{4DD8DCBC-8E67-3E27-9021-1163EB79F768}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk">
-      <UniqueIdentifier>{9E070535-C004-3042-ADD7-241C4602E129}</UniqueIdentifier>
+      <UniqueIdentifier>{963D8D3F-BE71-3AEE-849E-BFFFFA5ED983}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1">
-      <UniqueIdentifier>{80B77DC7-BF67-300B-B6A6-1CB6E6CF29DB}</UniqueIdentifier>
+      <UniqueIdentifier>{B8AD7FFB-3D50-3334-AB70-8754D45847CC}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der">
-      <UniqueIdentifier>{F9FC6FDB-DC87-373B-BBF4-73CBAE8D6368}</UniqueIdentifier>
+      <UniqueIdentifier>{E1BD5B9E-081F-35C8-A639-4861EDB13527}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\bit">
-      <UniqueIdentifier>{509D78AB-1F60-3885-8E99-22B445878184}</UniqueIdentifier>
+      <UniqueIdentifier>{A3D9C01A-EE11-3D71-9875-501BF325C725}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\boolean">
-      <UniqueIdentifier>{1B921EC2-7D80-3E9B-B888-D2099C0B3441}</UniqueIdentifier>
+      <UniqueIdentifier>{3A5604E6-8F1A-3FF5-8727-CD9D08E8DFE0}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\choice">
-      <UniqueIdentifier>{098EFFB6-1880-303A-B92A-8A226ACC7431}</UniqueIdentifier>
+      <UniqueIdentifier>{A03A51AA-DF0D-3837-B80E-E02C058A388D}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\generalizedtime">
-      <UniqueIdentifier>{84B788E9-DCE1-3043-846B-7755E996FBF0}</UniqueIdentifier>
+      <UniqueIdentifier>{C6218624-2A0E-38E4-A658-67521CD21D5B}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\ia5">
-      <UniqueIdentifier>{DA81B607-EA1A-3AA6-9898-F0B958E8A5EF}</UniqueIdentifier>
+      <UniqueIdentifier>{3B27AC1C-9452-30D2-A0F1-A514EC67386A}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\integer">
-      <UniqueIdentifier>{87E7FA2E-5FD2-3CF8-8D6E-C0311F7B2C83}</UniqueIdentifier>
+      <UniqueIdentifier>{209B7689-0AF1-349D-84B3-8E8BC424E828}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\object_identifier">
-      <UniqueIdentifier>{7CC7446A-1418-3666-83A8-A0F5BBA9FDC7}</UniqueIdentifier>
+      <UniqueIdentifier>{15CE597C-D3C8-3010-99B5-6028C9150D7B}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\octet">
-      <UniqueIdentifier>{43F96F58-BD11-33BE-A4BE-836580C443B0}</UniqueIdentifier>
+      <UniqueIdentifier>{A99FD75E-9A8A-3794-B129-A7310A5036D5}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\printable_string">
-      <UniqueIdentifier>{C1606CB4-23EC-308F-9909-F1E2746DEB58}</UniqueIdentifier>
+      <UniqueIdentifier>{2A0CC20F-8848-3E82-8BEF-7B53BD2D24E4}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\sequence">
-      <UniqueIdentifier>{959A3D92-84CE-3DA1-97E8-DD90AC45963B}</UniqueIdentifier>
+      <UniqueIdentifier>{1C485269-37EE-31C1-B0CE-610084C9DA4A}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\set">
-      <UniqueIdentifier>{30A8E028-C002-3D7D-AE1F-B4E39AC84C15}</UniqueIdentifier>
+      <UniqueIdentifier>{A203E40D-F16C-3257-A23B-9970FDF6CDFF}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\short_integer">
-      <UniqueIdentifier>{D46613B2-B2DC-3E52-BF64-FCB8B2F08DBA}</UniqueIdentifier>
+      <UniqueIdentifier>{7B5594D8-AABB-39A4-9089-243CFD15EB70}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\teletex_string">
-      <UniqueIdentifier>{90A53C6E-3382-3780-8F15-54D83826BD77}</UniqueIdentifier>
+      <UniqueIdentifier>{CD53B669-6CBC-3DC5-B92A-208F5E44CDCD}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\utctime">
-      <UniqueIdentifier>{F7344239-3D56-301C-90A2-8D353632D92B}</UniqueIdentifier>
+      <UniqueIdentifier>{11BA5309-BF7C-3941-9993-1C38AC51024B}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\asn1\der\utf8">
-      <UniqueIdentifier>{310AC854-D339-3F34-9756-984B2A39FD23}</UniqueIdentifier>
+      <UniqueIdentifier>{A5D2FDDD-FB47-3C6C-AC9C-37C187B6A12E}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\dh">
-      <UniqueIdentifier>{E8BE433A-8902-3C24-AF07-DB781C9B10AE}</UniqueIdentifier>
+      <UniqueIdentifier>{22D4581F-4024-3973-AF4D-14BF79B89EDB}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\dsa">
-      <UniqueIdentifier>{A21557BC-9FAF-3CF7-8B8A-4A2BD3D961B4}</UniqueIdentifier>
+      <UniqueIdentifier>{08E2E8F1-77D1-3785-99BF-F8DBD6BDCD23}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\ecc">
-      <UniqueIdentifier>{BBE24893-44AC-3396-9C16-4C919D446CAE}</UniqueIdentifier>
+      <UniqueIdentifier>{FCAF4264-80B2-3756-83A7-9DF2F5A116C2}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\katja">
-      <UniqueIdentifier>{56D60F29-C9D2-32E2-9656-81A42AA7B22D}</UniqueIdentifier>
+      <UniqueIdentifier>{68882D6A-2030-3BD1-A7F8-0051B5BE744F}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\pkcs1">
-      <UniqueIdentifier>{60AD21B2-2F74-3821-8C73-FA4CD52BD393}</UniqueIdentifier>
+      <UniqueIdentifier>{D98B1622-E746-3181-BA51-3AD8BE7CC564}</UniqueIdentifier>
     </Filter>
     <Filter Include="pk\rsa">
-      <UniqueIdentifier>{9226975C-3A0D-39F7-90B4-F51A801544FE}</UniqueIdentifier>
+      <UniqueIdentifier>{C45F5291-D28E-374B-BE3B-DD496D0F9052}</UniqueIdentifier>
     </Filter>
     <Filter Include="prngs">
-      <UniqueIdentifier>{D9C7E90B-ACB7-3529-8CD8-11833B9DA71A}</UniqueIdentifier>
+      <UniqueIdentifier>{DCF3D61B-E901-3C5F-A1B0-9F7780F6E53A}</UniqueIdentifier>
     </Filter>
     <Filter Include="stream">
-      <UniqueIdentifier>{66CF1EB2-5886-3CBD-8F6E-5C0BBCE7403D}</UniqueIdentifier>
+      <UniqueIdentifier>{7AA6C3FC-65C5-3A11-B8F0-B7FE498C62E2}</UniqueIdentifier>
     </Filter>
     <Filter Include="stream\chacha">
-      <UniqueIdentifier>{32152FFD-C03E-31E6-BBF2-43EABB229638}</UniqueIdentifier>
+      <UniqueIdentifier>{00D003B9-7E92-381A-96EB-F2BE0EC7C658}</UniqueIdentifier>
     </Filter>
     <Filter Include="stream\rc4">
-      <UniqueIdentifier>{38D52B16-A75A-3D17-AB5F-67EEDA1A9265}</UniqueIdentifier>
+      <UniqueIdentifier>{92B4C09C-598D-336D-AEDD-2872F582D728}</UniqueIdentifier>
     </Filter>
     <Filter Include="stream\sober128">
-      <UniqueIdentifier>{745670F2-6368-3E27-96C0-2147114F9D2F}</UniqueIdentifier>
+      <UniqueIdentifier>{A807D61F-D3F9-39FB-A350-C1AA3D03FD86}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

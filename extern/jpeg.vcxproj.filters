@@ -1,180 +1,180 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jaricom.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jaricom.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcapimin.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcapimin.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcapistd.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcapistd.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcarith.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcarith.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jccoefct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jccoefct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jccolor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jccolor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcdctmgr.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcdctmgr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jchuff.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jchuff.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcinit.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcinit.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcmainct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcmainct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcmarker.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcmarker.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcmaster.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcmaster.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcomapi.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcomapi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcparam.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcparam.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcprepct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcprepct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jcsample.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jcsample.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jctrans.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jctrans.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdapimin.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdapimin.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdapistd.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdapistd.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdarith.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdarith.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdatadst.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdatadst.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdcoefct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdcoefct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdcolor.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdcolor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jddctmgr.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jddctmgr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdhuff.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdhuff.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdinput.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdinput.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdmainct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdmainct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdmarker.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdmarker.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdmaster.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdmaster.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdmerge.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdmerge.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdpostct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdpostct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdsample.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdsample.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdtrans.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdtrans.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jerror.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jerror.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jfdctflt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jfdctflt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jfdctfst.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jfdctfst.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jfdctint.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jfdctint.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jutils.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jutils.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jidctflt.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jidctflt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jidctfst.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jidctfst.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jidctint.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jidctint.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jmemmgr.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jmemmgr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jmemnobs.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jmemnobs.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jquant1.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jquant1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jquant2.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jquant2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jconfig.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jconfig.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jdct.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jdct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jerror.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jerror.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jinclude.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jinclude.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jmemsys.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jmemsys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jmorecfg.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jmorecfg.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jpegint.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jpegint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jpeglib.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jpeglib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libjpeg\jversion.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libjpeg\jversion.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{D7C1805B-F9EF-38C6-A67C-6A2A6277F2A6}</UniqueIdentifier>
+      <UniqueIdentifier>{9A066687-8F57-35A9-8DD7-D7D16B8398E8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{4BB1411C-FAC6-37C7-9E89-9F6769750062}</UniqueIdentifier>
+      <UniqueIdentifier>{2B41F429-1698-310E-BF7D-8E64DC397A11}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

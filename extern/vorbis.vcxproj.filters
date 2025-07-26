@@ -1,198 +1,198 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\analysis.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\analysis.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\bitrate.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\bitrate.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\block.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\block.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codebook.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\codebook.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\envelope.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\envelope.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\floor0.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\floor0.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\floor1.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\floor1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\info.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\info.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lookup.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lpc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lpc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lsp.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lsp.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mapping0.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\mapping0.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mdct.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\mdct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\psy.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\psy.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\registry.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\registry.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\res0.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\res0.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\sharedbook.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\sharedbook.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\smallft.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\smallft.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\synthesis.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\synthesis.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\vorbisenc.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\vorbisenc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\window.c">
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\window.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\backends.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\backends.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\bitrate.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\bitrate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codebook.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\codebook.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\include\vorbis\codec.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\include\vorbis\codec.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codec_internal.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\codec_internal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\envelope.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\envelope.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\floor_all.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\floor_all.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\floor\floor_books.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\books\floor\floor_books.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\highlevel.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\highlevel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lookup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup_data.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lookup_data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lpc.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lpc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lsp.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\lsp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\masking.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\masking.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mdct.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\mdct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\misc.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\misc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\os.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\os.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\psy.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\psy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_11.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\psych_11.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_16.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\psych_16.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_44.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\psych_44.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_8.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\psych_8.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\registry.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\registry.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\coupled\res_books_stereo.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\books\coupled\res_books_stereo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\uncoupled\res_books_uncoupled.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\books\uncoupled\res_books_uncoupled.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_16.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\residue_16.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_44.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\residue_44.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_44u.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\residue_44u.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_8.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\residue_8.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\scales.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\scales.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_11.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_11.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_16.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_16.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_22.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_22.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_32.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_32.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_44.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_44.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_44u.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_44u.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_8.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_8.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_X.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\modes\setup_X.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\window.h">
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\newvorbis\lib\window.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{D7C1805B-F9EF-38C6-A67C-6A2A6277F2A6}</UniqueIdentifier>
+      <UniqueIdentifier>{9A066687-8F57-35A9-8DD7-D7D16B8398E8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{4BB1411C-FAC6-37C7-9E89-9F6769750062}</UniqueIdentifier>
+      <UniqueIdentifier>{2B41F429-1698-310E-BF7D-8E64DC397A11}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

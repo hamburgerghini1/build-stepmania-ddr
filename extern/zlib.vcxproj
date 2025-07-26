@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FD4DE17F-6774-364C-9459-00B1B9FE80BB}</ProjectGuid>
+    <ProjectGuid>{F1C5ACA0-C51A-31DC-A612-A2D700CA842C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -63,19 +63,19 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">zlib.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">zlib</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">zlib.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">zlib</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\MinSizeRel\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\MinSizeRel\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">zlib.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">zlib</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\RelWithDebInfo\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\RelWithDebInfo\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">zlib.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">zlib</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
@@ -231,11 +231,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -243,12 +243,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-glew.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-json.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-lua.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mad.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-png.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.jpeg.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.mad.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.ogg.types.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -256,12 +256,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-glew.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-json.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-lua.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mad.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-png.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.jpeg.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.mad.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.ogg.types.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -269,12 +269,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-glew.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-json.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-lua.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mad.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-png.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.jpeg.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.mad.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.ogg.types.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Documents/GitHub/build-stepmania-ddr -BC:/Users/tommi/Documents/GitHub/build-stepmania-ddr --check-stamp-file C:/Users/tommi/Documents/GitHub/build-stepmania-ddr/extern/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -282,44 +282,44 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-glew.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-json.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-lua.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-mad.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-png.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.jpeg.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.mad.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\config.ogg.types.in.h;C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\adler32.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\compress.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\crc32.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\deflate.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzclose.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzlib.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzread.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzwrite.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\infback.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffast.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inflate.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inftrees.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\minigzip.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\trees.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\uncompr.c" />
-    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zutil.c" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\crc32.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\deflate.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzguts.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffast.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffixed.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inflate.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inftrees.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\trees.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zconf.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zlib.h" />
-    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zutil.h" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\adler32.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\compress.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\crc32.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\deflate.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\gzclose.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\gzlib.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\gzread.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\gzwrite.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\infback.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inffast.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inflate.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inftrees.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\minigzip.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\trees.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\uncompr.c" />
+    <ClCompile Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\zutil.c" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\crc32.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\deflate.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\gzguts.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inffast.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inffixed.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inflate.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\inftrees.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\trees.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\zconf.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\zlib.h" />
+    <ClInclude Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\extern\zlib\zutil.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\ZERO_CHECK.vcxproj">
-      <Project>{623B3676-26C6-340C-9FD9-9E12F1032C42}</Project>
+    <ProjectReference Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\ZERO_CHECK.vcxproj">
+      <Project>{AC6EEBB0-59BD-3D86-897F-A5EF60A53D24}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

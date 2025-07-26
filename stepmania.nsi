@@ -163,8 +163,8 @@
 	; generate, then include installer strings
 	;!delfile "nsis_strings_temp.inc"
 
-	!system '"Program\StepMania.exe" --ExportNsisStrings'
-	!include "nsis_strings_temp.inc"
+	;!system '"Program\StepMania.exe" --ExportNsisStrings'
+	;!include "nsis_strings_temp.inc"
 
 ;-------------------------------------------------------------------------------
 ;Reserve Files
@@ -359,35 +359,6 @@ Section "Main Section" SecMain
 	File /r /x CVS /x .svn "NoteSkins\dance\retro"
 	File /r /x CVS /x .svn "NoteSkins\dance\retrobar"
 	File /r /x CVS /x .svn "NoteSkins\dance\retrobar-splithand_whiteblue"
-	SetOutPath "$INSTDIR"
-
-	; install pump noteskins
-	SetOutPath "$INSTDIR\NoteSkins\pump"
-	File /r /x CVS /x .svn "NoteSkins\pump\cmd"
-	File /r /x CVS /x .svn "NoteSkins\pump\cmd-routine-p1"
-	File /r /x CVS /x .svn "NoteSkins\pump\cmd-routine-p2"
-	File /r /x CVS /x .svn "NoteSkins\pump\complex"
-	File /r /x CVS /x .svn "NoteSkins\pump\default"
-	File /r /x CVS /x .svn "NoteSkins\pump\delta"
-	File /r /x CVS /x .svn "NoteSkins\pump\delta-note"
-	File /r /x CVS /x .svn "NoteSkins\pump\delta-routine-p1"
-	File /r /x CVS /x .svn "NoteSkins\pump\delta-routine-p2"
-	File /r /x CVS /x .svn "NoteSkins\pump\frame5p"
-	File /r /x CVS /x .svn "NoteSkins\pump\newextra"
-	File /r /x CVS /x .svn "NoteSkins\pump\rhythm"
-	File /r /x CVS /x .svn "NoteSkins\pump\simple"
-	SetOutPath "$INSTDIR"
-
-	; install kb7 noteskins
-	SetOutPath "$INSTDIR\NoteSkins\kb7"
-	File /r /x CVS /x .svn "NoteSkins\kb7\default"
-	;File /r /x CVS /x .svn "NoteSkins\kb7\orbital"
-	; retrobar
-	File /r /x CVS /x .svn "NoteSkins\kb7\retrobar"
-	File /r /x CVS /x .svn "NoteSkins\kb7\retrobar-iidx"
-	File /r /x CVS /x .svn "NoteSkins\kb7\retrobar-o2jam"
-	File /r /x CVS /x .svn "NoteSkins\kb7\retrobar-razor"
-	File /r /x CVS /x .svn "NoteSkins\kb7\retrobar-razor_o2"
 	SetOutPath "$INSTDIR"
 
 	; install lights noteskin

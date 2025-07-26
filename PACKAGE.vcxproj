@@ -25,7 +25,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{653E01B7-BC43-3FF5-9184-986E2AE524E3}</ProjectGuid>
+    <ProjectGuid>{B99BDDFF-85FB-3F38-89E3-A5CD1487051D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -75,7 +75,7 @@
     <PostBuildEvent>
       <Message></Message>
       <Command>setlocal
-cd C:\Users\tommi\Downloads\stepmania-ddr-5_1-new
+cd C:\Users\tommi\Documents\GitHub\build-stepmania-ddr
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
@@ -93,7 +93,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <PostBuildEvent>
       <Message></Message>
       <Command>setlocal
-cd C:\Users\tommi\Downloads\stepmania-ddr-5_1-new
+cd C:\Users\tommi\Documents\GitHub\build-stepmania-ddr
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
@@ -111,7 +111,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <PostBuildEvent>
       <Message></Message>
       <Command>setlocal
-cd C:\Users\tommi\Downloads\stepmania-ddr-5_1-new
+cd C:\Users\tommi\Documents\GitHub\build-stepmania-ddr
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
@@ -129,7 +129,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <PostBuildEvent>
       <Message></Message>
       <Command>setlocal
-cd C:\Users\tommi\Downloads\stepmania-ddr-5_1-new
+cd C:\Users\tommi\Documents\GitHub\build-stepmania-ddr
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
@@ -144,7 +144,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\fd32d4708daa55556b9df2a638558816\PACKAGE_force.rule">
+    <CustomBuild Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\CMakeFiles\33e39a8a8146d4d81338922cdc84934b\PACKAGE_force.rule">
       <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</BuildInParallel>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
@@ -157,7 +157,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\PACKAGE_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\CMakeFiles\PACKAGE_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</BuildInParallel>
@@ -172,7 +172,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\PACKAGE_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\CMakeFiles\PACKAGE_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
       <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</BuildInParallel>
@@ -187,7 +187,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\PACKAGE_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\CMakeFiles\PACKAGE_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
       <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</BuildInParallel>
@@ -202,21 +202,21 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\PACKAGE_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\CMakeFiles\PACKAGE_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\ZERO_CHECK.vcxproj">
-      <Project>{623B3676-26C6-340C-9FD9-9E12F1032C42}</Project>
+    <ProjectReference Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\ZERO_CHECK.vcxproj">
+      <Project>{AC6EEBB0-59BD-3D86-897F-A5EF60A53D24}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\ALL_BUILD.vcxproj">
-      <Project>{3F0B0D9B-6792-3C2C-B188-0D1B6573364A}</Project>
+    <ProjectReference Include="C:\Users\tommi\Documents\GitHub\build-stepmania-ddr\ALL_BUILD.vcxproj">
+      <Project>{DE05C091-41C3-33A9-A6B8-176BD12D9B48}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
