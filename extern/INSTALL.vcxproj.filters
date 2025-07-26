@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\CMakeFiles\f2cc4e59446fdb4cc76f83392b53b5ca\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F84E5E4D-344D-3B27-A5CB-4455C7BA658E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

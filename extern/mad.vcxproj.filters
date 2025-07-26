@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\bit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\decoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\fixed.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\huffman.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\layer12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\layer3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\stream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\synth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\bit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\decoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\fixed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\huffman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\layer12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\layer3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\mad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\stream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\synth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\D.dat">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\imdct_s.dat">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\qc_table.dat">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\rq_table.dat">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\mad-0.15.1b\sf_table.dat">
+      <Filter>Data Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Data Files">
+      <UniqueIdentifier>{32F9ADA7-A411-3F92-8D28-92025743F675}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D7C1805B-F9EF-38C6-A67C-6A2A6277F2A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4BB1411C-FAC6-37C7-9E89-9F6769750062}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

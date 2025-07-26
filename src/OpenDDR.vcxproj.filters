@@ -1,0 +1,2739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameLoop.cpp">
+      <Filter>Global Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\global.cpp">
+      <Filter>Global Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SpecialFiles.cpp">
+      <Filter>Global Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepMania.cpp">
+      <Filter>Global Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\generated\verstub.cpp">
+      <Filter>Global Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AnnouncerManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Bookkeeper.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CharacterManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CommandLineActions.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CryptManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameSoundManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameState.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputFilter.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputMapper.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputQueue.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LightsManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MemoryCardManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MessageManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NetworkSyncManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteSkinManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PrefsManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ProfileManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StatsManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ThemeManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\UnlockManager.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ezsockets.cpp">
+      <Filter>Global Singletons</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Actor.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorFrame.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorFrameTexture.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorMultiTexture.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorMultiVertex.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorProxy.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorScroller.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorSound.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorUtil.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AutoActor.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BitmapText.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DynamicActorScroller.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Model.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModelManager.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModelTypes.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Quad.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RollingNumbers.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Sprite.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Tween.cpp">
+      <Filter>Actors\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActiveAttackList.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ArrowEffects.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AttackDisplay.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Background.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BeginnerHelper.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CombinedLifeMeterTug.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DancingCharacters.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Foreground.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GhostArrowRow.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HoldJudgment.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Inventory.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeter.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterBar.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterBattery.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterTime.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LyricDisplay.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDisplay.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteField.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PercentageDisplay.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Player.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ReceptorArrow.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ReceptorArrowRow.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplay.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayAliveTime.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayBattle.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayCalories.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayLifeTime.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayNormal.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayOni.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayPercentage.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayRave.cpp">
+      <Filter>Actors\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BPMDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ComboGraph.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ControllerStateDisplay.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseContentsList.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DifficultyList.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DualScrollBar.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\EditMenu.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FadingBanner.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GradeDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GraphDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GrooveRadar.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HelpDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MemoryCardDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MenuTimer.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModIcon.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModIconRow.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MusicWheel.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MusicWheelItem.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionRow.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionsCursor.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionsList.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PaneDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScrollBar.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SnapDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TextBanner.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelBase.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelItemBase.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelNotifyIcon.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WorkoutGraph.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RoomInfoDisplay.cpp">
+      <Filter>Actors\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Banner.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BGAnimation.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BGAnimationLayer.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DifficultyIcon.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MeterDisplay.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepsDisplay.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StreamDisplay.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Transition.cpp">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\RageDriver.cpp">
+      <Filter>Arch Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\Dialog.cpp">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\DialogDriver.cpp">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\DialogDriver_Win32.cpp">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooks.cpp">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooksUtil.cpp">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooks_Win32.cpp">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooks_Win32Static.cpp">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_MonkeyKeyboard.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_DirectInput.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_DirectInputHelper.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_MIDI.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_Para.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_Pump.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_RTIO.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_ddrio.cpp">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_SystemMessage.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_SextetStream.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Export.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Win32Serial.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Win32Parallel.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_PacDrive.cpp">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LoadingWindow\LoadingWindow.cpp">
+      <Filter>Arch Specific\Loading Window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LoadingWindow\LoadingWindow_Win32.cpp">
+      <Filter>Arch Specific\Loading Window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LowLevelWindow\LowLevelWindow.cpp">
+      <Filter>Arch Specific\Low Level Window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LowLevelWindow\LowLevelWindow_Win32.cpp">
+      <Filter>Arch Specific\Low Level Window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriver.cpp">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriverThreaded_Folder.cpp">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriverThreaded_Windows.cpp">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture.cpp">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_Generic.cpp">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_Null.cpp">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_FFMpeg.cpp">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_Generic_Software.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_Null.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\DSoundHelpers.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_DSound_Software.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_WaveOut.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_WDMKS.cpp">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Threads\Threads_Win32.cpp">
+      <Filter>Arch Specific\Threads</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Course.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseLoaderCRS.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseUtil.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseWriterCRS.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Trail.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TrailUtil.cpp">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Font.cpp">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontCharAliases.cpp">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontCharmaps.cpp">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaBinding.cpp">
+      <Filter>Data Structures\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaExpressionTransform.cpp">
+      <Filter>Data Structures\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaReference.cpp">
+      <Filter>Data Structures\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteData.cpp">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDataUtil.cpp">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDataWithScoring.cpp">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoader.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderBMS.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderDWI.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderJson.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderKSF.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSM.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSMA.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSSC.cpp">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterDWI.cpp">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterJson.cpp">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterSM.cpp">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterSSC.cpp">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeper.cpp">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperNormal.cpp">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperRave.cpp">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperShared.cpp">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Song.cpp">
+      <Filter>Data Structures\Songs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongCacheIndex.cpp">
+      <Filter>Data Structures\Songs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongOptions.cpp">
+      <Filter>Data Structures\Songs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongPosition.cpp">
+      <Filter>Data Structures\Songs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongUtil.cpp">
+      <Filter>Data Structures\Songs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Steps.cpp">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepsUtil.cpp">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Style.cpp">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StyleUtil.cpp">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AdjustSync.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Attack.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AutoKeysounds.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BackgroundUtil.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ImageCache.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Character.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CodeDetector.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CodeSet.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CubicSpline.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Command.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CommonMetrics.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CreateZip.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CryptHelpers.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DateTime.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Difficulty.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DisplaySpec.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\EnumHelper.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FileDownload.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Game.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameCommand.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameConstantsAndTypes.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameInput.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameplayAssist.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GamePreferences.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Grade.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HighScore.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\JsonUtil.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LocalizedString.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LyricsLoader.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModsGroup.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteTypes.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionRowHandler.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerAI.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerNumber.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerOptions.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerStageStats.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerState.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Preference.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Profile.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RadarValues.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RandomSample.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SampleHistory.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDimensions.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SoundEffectControl.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StageStats.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TimingData.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TimingSegments.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TitleSubstitution.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RoomWheel.cpp">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFile.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileBasic.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriver.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDeflate.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDirect.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDirectHelpers.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverMemory.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverReadAhead.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverSlice.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverTimeout.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverZip.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileManager.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileManager_ReadAhead.cpp">
+      <Filter>Rage\File</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageBitmapTexture.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_Null.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_OGL.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_OGL_Helpers.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageModelGeometry.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_BMP.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_GIF.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_JPEG.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_PNG.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_XPM.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_BMP.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_JPEG.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_PNG.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Dither.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Palettize.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Zoom.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTexture.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureID.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureManager.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTexturePreloader.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureRenderTarget.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_D3D.cpp">
+      <Filter>Rage\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageException.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageInput.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageInputDevice.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageLog.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageMath.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTypes.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageThreads.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTimer.cpp">
+      <Filter>Rage\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSound.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundManager.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundMixBuffer.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundPosMap.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Chain.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_ChannelSplit.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Extend.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_FileReader.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Merge.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Pan.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_PitchChange.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_PostBuffering.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Preload.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Resample_Good.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_SpeedChange.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_ThreadedBuffer.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_WAV.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundUtil.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Vorbisfile.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_MP3.cpp">
+      <Filter>Rage\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_BackgroundLoader.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_CachedObject.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_CharConversions.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_FileDB.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_WorkerThread.cpp">
+      <Filter>Rage\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplay.cpp">
+      <Filter>Screens\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplayLesson.cpp">
+      <Filter>Screens\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplayNormal.cpp">
+      <Filter>Screens\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplayShared.cpp">
+      <Filter>Screens\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplaySyncMachine.cpp">
+      <Filter>Screens\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptions.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsCourseOverview.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsEditCourse.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsEditProfile.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsExportPackage.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageCourses.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageEditSteps.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageProfiles.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMaster.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMasterPrefs.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMemoryCard.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsToggleSongs.cpp">
+      <Filter>Screens\Options</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetEvaluation.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetRoom.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetSelectBase.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetSelectMusic.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetworkOptions.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSMOnlineLogin.cpp">
+      <Filter>Screens\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Screen.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenAttract.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenBookkeeping.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenContinue.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDebugOverlay.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDemonstration.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEdit.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEditMenu.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEnding.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEvaluation.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenExit.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenHighScores.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenHowToPlay.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenInstallOverlay.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenInstructions.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenJukebox.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMapControllers.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMessage.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMiniMenu.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNameEntry.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNameEntryTraditional.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPackages.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPlayerOptions.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenProfileLoad.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenProfileSave.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPrompt.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenRanking.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenReloadSongs.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSandbox.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSaveSync.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelect.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectCharacter.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectLanguage.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectMaster.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectMusic.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectProfile.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenServiceAction.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSetTime.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSongOptions.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSplash.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenStatsOverlay.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSyncOverlay.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSystemLayer.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestInput.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestLights.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestSound.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTextEntry.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTitleMenu.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockBrowse.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockCelebrate.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockStatus.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenWithMenuElements.cpp">
+      <Filter>Screens\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\AppInstance.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\arch_setup.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\arch_time.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CommandLine.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\Crash.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CrashHandlerChild.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CrashHandlerNetworking.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DebugInfoHunt.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DialogUtil.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DirectXGuids.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DirectXHelpers.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\ErrorStrings.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GetFileInformation.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GotoURL.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GraphicsWindow.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\MessageWindow.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\RegistryAccess.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\RestartProgram.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\SpecialDirs.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\USB.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\VideoDriverInfo.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowIcon.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowsDialogBox.cpp">
+      <Filter>OS Specific</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CsvFile.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\IniFile.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MsdFile.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlFile.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlToLua.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlFileUtil.cpp">
+      <Filter>File Types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\generated\config.hpp">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameLoop.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\global.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ProductInfo.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SpecialFiles.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StdString.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepMania.h">
+      <Filter>Global Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AnnouncerManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Bookkeeper.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CharacterManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CommandLineActions.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CryptManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameSoundManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameState.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputFilter.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputMapper.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputQueue.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LightsManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MemoryCardManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MessageManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NetworkSyncManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteSkinManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PrefsManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ProfileManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StatsManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ThemeManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\UnlockManager.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ezsockets.h">
+      <Filter>Global Singletons</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Actor.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorFrame.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorFrameTexture.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorMultiTexture.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorMultiVertex.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorProxy.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorScroller.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorSound.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActorUtil.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AutoActor.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BitmapText.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DynamicActorScroller.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Model.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModelManager.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModelTypes.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Quad.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RollingNumbers.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Sprite.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Tween.h">
+      <Filter>Actors\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ActiveAttackList.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ArrowEffects.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AttackDisplay.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Background.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BeginnerHelper.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CombinedLifeMeter.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CombinedLifeMeterTug.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DancingCharacters.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Foreground.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GhostArrowRow.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HoldJudgment.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Inventory.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeter.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterBar.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterBattery.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LifeMeterTime.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LyricDisplay.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDisplay.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteField.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PercentageDisplay.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Player.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ReceptorArrow.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ReceptorArrowRow.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplay.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayAliveTime.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayBattle.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayCalories.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayLifeTime.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayNormal.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayOni.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayPercentage.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreDisplayRave.h">
+      <Filter>Actors\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BPMDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ComboGraph.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ControllerStateDisplay.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseContentsList.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DifficultyList.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DualScrollBar.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\EditMenu.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FadingBanner.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GradeDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GraphDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GrooveRadar.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HelpDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MemoryCardDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MenuTimer.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModIcon.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModIconRow.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MusicWheel.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MusicWheelItem.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionRow.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionsCursor.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionsList.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PaneDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScrollBar.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SnapDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TextBanner.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelBase.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelItemBase.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WheelNotifyIcon.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\WorkoutGraph.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RoomInfoDisplay.h">
+      <Filter>Actors\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Banner.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BGAnimation.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BGAnimationLayer.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DifficultyIcon.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MeterDisplay.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepsDisplay.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StreamDisplay.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Transition.h">
+      <Filter>Actors\Gameplay and Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\arch_default.h">
+      <Filter>Arch Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\RageDriver.h">
+      <Filter>Arch Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\Dialog.h">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\DialogDriver.h">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Dialog\DialogDriver_Win32.h">
+      <Filter>Arch Specific\Dialog</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooks.h">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\ArchHooks\ArchHooks_Win32.h">
+      <Filter>Arch Specific\Arch Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_MonkeyKeyboard.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_DirectInput.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_DirectInputHelper.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_MIDI.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_Para.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_Pump.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_RTIO.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\InputHandler\InputHandler_Win32_ddrio.h">
+      <Filter>Arch Specific\Input Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_SystemMessage.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_SextetStream.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\SextetUtils.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Export.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Win32Parallel.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Lights\LightsDriver_Win32Serial.h">
+      <Filter>Arch Specific\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LoadingWindow\LoadingWindow.h">
+      <Filter>Arch Specific\Loading Window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LoadingWindow\LoadingWindow_Win32.h">
+      <Filter>Arch Specific\Loading Window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LowLevelWindow\LowLevelWindow.h">
+      <Filter>Arch Specific\Low Level Window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\LowLevelWindow\LowLevelWindow_Win32.h">
+      <Filter>Arch Specific\Low Level Window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriver.h">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriver_Null.h">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriverThreaded_Folder.h">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MemoryCard\MemoryCardDriverThreaded_Windows.h">
+      <Filter>Arch Specific\Memory Card</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture.h">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_Generic.h">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_Null.h">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\MovieTexture\MovieTexture_FFMpeg.h">
+      <Filter>Arch Specific\Movie Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_Null.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\DSoundHelpers.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_DSound_Software.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_WaveOut.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Sound\RageSoundDriver_WDMKS.h">
+      <Filter>Arch Specific\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Threads\Threads.h">
+      <Filter>Arch Specific\Threads</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\arch\Threads\Threads_Win32.h">
+      <Filter>Arch Specific\Threads</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Course.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseLoaderCRS.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseUtil.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CourseWriterCRS.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Trail.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TrailUtil.h">
+      <Filter>Data Structures\Courses and Trails</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Font.h">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontCharAliases.h">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FontCharmaps.h">
+      <Filter>Data Structures\Fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaBinding.h">
+      <Filter>Data Structures\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaExpressionTransform.h">
+      <Filter>Data Structures\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LuaReference.h">
+      <Filter>Data Structures\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteData.h">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDataUtil.h">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteDataWithScoring.h">
+      <Filter>Data Structures\Note Data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoader.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderBMS.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderDWI.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderJson.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderKSF.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSM.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSMA.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesLoaderSSC.h">
+      <Filter>Data Structures\Notes Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterDWI.h">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterJson.h">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterSM.h">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NotesWriterSSC.h">
+      <Filter>Data Structures\Notes Writers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeper.h">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperNormal.h">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperRave.h">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScoreKeeperShared.h">
+      <Filter>Data Structures\Score Keepers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Song.h">
+      <Filter>Data Structures\Songs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongCacheIndex.h">
+      <Filter>Data Structures\Songs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongOptions.h">
+      <Filter>Data Structures\Songs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongPosition.h">
+      <Filter>Data Structures\Songs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SongUtil.h">
+      <Filter>Data Structures\Songs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Steps.h">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StepsUtil.h">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Style.h">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StyleUtil.h">
+      <Filter>Data Structures\Steps and Styles</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AdjustSync.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Attack.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\AutoKeysounds.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\BackgroundUtil.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ImageCache.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Character.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CodeDetector.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CodeSet.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Command.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CommonMetrics.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CreateZip.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CryptHelpers.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CubicSpline.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DateTime.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\DisplaySpec.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Difficulty.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\EnumHelper.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\FileDownload.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Game.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameCommand.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameConstantsAndTypes.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameInput.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GameplayAssist.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\GamePreferences.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Grade.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\HighScore.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\InputEventPlus.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\JsonUtil.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LocalizedString.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\LyricsLoader.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ModsGroup.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\NoteTypes.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\OptionRowHandler.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerAI.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerNumber.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerOptions.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerStageStats.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\PlayerState.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Preference.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Profile.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RadarValues.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RandomSample.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SampleHistory.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDimensions.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SoundEffectControl.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\SubscriptionManager.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\StageStats.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ThemeMetric.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TimingData.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TimingSegments.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\TitleSubstitution.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RoomWheel.h">
+      <Filter>Data Structures\Misc Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFile.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileBasic.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriver.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDeflate.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDirect.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverDirectHelpers.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverMemory.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverReadAhead.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverSlice.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverTimeout.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileDriverZip.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileManager.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageFileManager_ReadAhead.h">
+      <Filter>Rage\File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageBitmapTexture.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_Null.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_OGL.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_OGL_Helpers.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageModelGeometry.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_BMP.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_GIF.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_JPEG.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_PNG.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Load_XPM.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_BMP.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_JPEG.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurface_Save_PNG.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Dither.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Palettize.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSurfaceUtils_Zoom.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTexture.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureID.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureManager.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTexturePreloader.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTextureRenderTarget.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageDisplay_D3D.h">
+      <Filter>Rage\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageException.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageInput.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageInputDevice.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageLog.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageMath.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTypes.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageThreads.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageTimer.h">
+      <Filter>Rage\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSound.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundManager.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundMixBuffer.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundPosMap.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Chain.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_ChannelSplit.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Extend.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_FileReader.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Filter.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Merge.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Pan.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_PitchChange.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_PostBuffering.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Preload.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Resample_Good.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_SpeedChange.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_ThreadedBuffer.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_WAV.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundUtil.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_Vorbisfile.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageSoundReader_MP3.h">
+      <Filter>Rage\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_AutoPtr.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_BackgroundLoader.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_CachedObject.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_CharConversions.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_CircularBuffer.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_FileDB.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\RageUtil_WorkerThread.h">
+      <Filter>Rage\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplay.h">
+      <Filter>Screens\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplayNormal.h">
+      <Filter>Screens\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplayShared.h">
+      <Filter>Screens\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenGameplaySyncMachine.h">
+      <Filter>Screens\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptions.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsCourseOverview.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsEditCourse.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsEditProfile.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsExportPackage.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageCourses.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageEditSteps.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsManageProfiles.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMaster.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMasterPrefs.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsMemoryCard.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenOptionsToggleSongs.h">
+      <Filter>Screens\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetEvaluation.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetRoom.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetSelectBase.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetSelectMusic.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNetworkOptions.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSMOnlineLogin.h">
+      <Filter>Screens\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\Screen.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenAttract.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenBookkeeping.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenContinue.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDebugOverlay.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenDemonstration.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEdit.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEditMenu.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEnding.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenEvaluation.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenExit.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenHighScores.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenHowToPlay.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenInstallOverlay.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenInstructions.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenJukebox.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMapControllers.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMessage.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenMiniMenu.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNameEntry.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenNameEntryTraditional.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPackages.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPlayerOptions.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenProfileLoad.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenProfileSave.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenPrompt.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenRanking.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenReloadSongs.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSandbox.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSaveSync.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelect.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectCharacter.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectLanguage.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectMaster.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectMusic.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSelectProfile.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenServiceAction.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSetTime.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSongOptions.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSplash.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenStatsOverlay.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSyncOverlay.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenSystemLayer.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestInput.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestLights.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTestSound.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTextEntry.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenTitleMenu.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockBrowse.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockCelebrate.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenUnlockStatus.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\ScreenWithMenuElements.h">
+      <Filter>Screens\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\AppInstance.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\arch_setup.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CommandLine.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\Crash.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CrashHandlerInternal.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\CrashHandlerNetworking.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DebugInfoHunt.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DialogUtil.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\DirectXHelpers.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\ErrorStrings.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GetFileInformation.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GotoURL.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\GraphicsWindow.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\MessageWindow.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\RegistryAccess.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\RestartProgram.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\SpecialDirs.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\USB.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\VideoDriverInfo.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowIcon.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowsDialogBox.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowsResources.h">
+      <Filter>OS Specific</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CsvFile.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\IniFile.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\MsdFile.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlFile.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlToLua.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\XmlFileUtil.h">
+      <Filter>File Types</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\src\archutils\Win32\WindowsResources.rc">
+      <Filter>OS Specific</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Actors">
+      <UniqueIdentifier>{F804B24A-0143-33A7-8DE6-BC7397A45828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actors\Base">
+      <UniqueIdentifier>{2918DACC-11D4-33D0-ABF9-8DD42FF559BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actors\Gameplay">
+      <UniqueIdentifier>{6539F346-C07A-30AA-8FB3-02BD748A5D3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actors\Gameplay and Menus">
+      <UniqueIdentifier>{8F46003B-5657-31E0-A0C9-277B72FE5777}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actors\Menus">
+      <UniqueIdentifier>{A10B73F1-F759-3573-B6DC-F2F059D409BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific">
+      <UniqueIdentifier>{10CC473C-A9DD-368C-97EE-A0CF1EA12C8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Arch Hooks">
+      <UniqueIdentifier>{98B84ED1-41CD-3001-AC37-5FEE9FB9AB01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Dialog">
+      <UniqueIdentifier>{873D0692-1610-33C3-A8AC-8ACA6A4A11AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Input Handler">
+      <UniqueIdentifier>{F5D648C0-CAB2-36A5-BD2A-06095387EAB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Lights">
+      <UniqueIdentifier>{EF374560-044F-3E5A-A3A7-5F29BC7F1943}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Loading Window">
+      <UniqueIdentifier>{0F55C60D-EC8F-33CE-B9F5-18493FF9E631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Low Level Window">
+      <UniqueIdentifier>{D6C3F60B-E50F-3614-B22C-D8DF3C76A884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Memory Card">
+      <UniqueIdentifier>{DC6C2562-6B01-3D97-9570-A6F1CDC0FA5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Movie Texture">
+      <UniqueIdentifier>{6E749613-73AE-33F7-B9BB-10B275F7231E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Sound">
+      <UniqueIdentifier>{C60AEC72-8B3A-3F26-B81B-55D14D7F9E24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arch Specific\Threads">
+      <UniqueIdentifier>{8AD998AF-C8D2-3EA8-86C9-0EC796B38F62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures">
+      <UniqueIdentifier>{23B3FBA1-4AF6-3DD4-95E6-84E8CD1119DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Courses and Trails">
+      <UniqueIdentifier>{4D1D8DB5-B5C9-3512-977B-1604095E07DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Fonts">
+      <UniqueIdentifier>{8BCF1C92-178E-3350-815C-FBF0C5255FF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Lua">
+      <UniqueIdentifier>{B93F9AE8-E9D0-309A-A41C-887A9C514CD8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Misc Objects">
+      <UniqueIdentifier>{79D31036-FD41-39AD-B8D1-6360A080BC34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Note Data">
+      <UniqueIdentifier>{884808B5-D7B8-3055-9E4F-6E50C8968793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Notes Loaders">
+      <UniqueIdentifier>{774D5B73-2E5D-3651-85F2-7D86F2B53DE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Notes Writers">
+      <UniqueIdentifier>{080F8C3E-42E4-328D-AE12-FF059F400024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Score Keepers">
+      <UniqueIdentifier>{619D1FCC-905E-3BBE-8A22-984470120948}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Songs">
+      <UniqueIdentifier>{F69B43AD-D816-3587-A9ED-577B55F17979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Structures\Steps and Styles">
+      <UniqueIdentifier>{7DD51F6F-D474-32AD-A6FE-5DB238384D73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File Types">
+      <UniqueIdentifier>{05D561C3-D175-3397-9C18-E395DA66AF6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Global Files">
+      <UniqueIdentifier>{D82A2356-446B-3F7B-ABF3-B91630F3FC67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Global Singletons">
+      <UniqueIdentifier>{CAEEFD4B-9280-3AA7-805F-9C44489526C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OS Specific">
+      <UniqueIdentifier>{47D2B3E4-7FD3-3BED-AF7F-711B5900F99D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage">
+      <UniqueIdentifier>{999E027E-A0A7-3C64-8BEA-C83B77446E58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage\File">
+      <UniqueIdentifier>{AEDE185B-DCF0-3426-8607-37F88DFBD962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage\Graphics">
+      <UniqueIdentifier>{6DEA446E-26D5-3BC7-A5F1-8E1CE252CA1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage\Misc">
+      <UniqueIdentifier>{29FC653A-7186-378A-B1B3-C99E8803A79B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage\Sound">
+      <UniqueIdentifier>{60E785DB-F8B1-3758-87DA-85788628E621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rage\Utils">
+      <UniqueIdentifier>{FCC68A93-6E3C-318E-B861-91A7815EB692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens">
+      <UniqueIdentifier>{C7C088DB-9925-364E-86E5-66775D4A1E80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens\Gameplay">
+      <UniqueIdentifier>{A5D1FD4C-8C1C-3F62-A3A2-5A91F713032C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens\Network">
+      <UniqueIdentifier>{A275EC87-47CB-3930-B010-D3BDD9DDC9EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens\Options">
+      <UniqueIdentifier>{BABC7C70-611A-31A0-83BD-204964594A82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens\Others">
+      <UniqueIdentifier>{AF944188-A818-3003-B10A-1F1780CCBE15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

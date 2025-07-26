@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{FD4DE17F-6774-364C-9459-00B1B9FE80BB}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.20348.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>zlib</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseDebugLibraries>true</UseDebugLibraries>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">zlib.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">zlib</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">zlib.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">zlib</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">zlib.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">zlib</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">zlib.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">zlib</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_MBCS;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_MBCS;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_MBCS;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tommi/Downloads/stepmania-ddr-5_1-new -BC:/Users/tommi/Downloads/stepmania-ddr-5_1-new --check-stamp-file C:/Users/tommi/Downloads/stepmania-ddr-5_1-new/extern/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-glew.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-jpeg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-json.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-lua.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-mad.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-ogg.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-pcre.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-png.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tomcrypt.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-tommath.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbis.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-vorbisfile.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeProject-zlib.cmake;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.jpeg.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.mad.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\config.ogg.types.in.h;C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\libpng\scripts\pnglibconf.h.prebuilt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\adler32.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\compress.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\crc32.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\deflate.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzclose.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzlib.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzread.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzwrite.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\infback.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffast.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inflate.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inftrees.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\minigzip.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\trees.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\uncompr.c" />
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zutil.c" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\crc32.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\deflate.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\gzguts.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffast.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inffixed.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inflate.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\inftrees.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\trees.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zconf.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zlib.h" />
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\zlib\zutil.h" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\ZERO_CHECK.vcxproj">
+      <Project>{623B3676-26C6-340C-9FD9-9E12F1032C42}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

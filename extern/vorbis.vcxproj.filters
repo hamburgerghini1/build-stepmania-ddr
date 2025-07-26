@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\analysis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\bitrate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\block.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codebook.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\envelope.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\floor0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\floor1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\info.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lpc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lsp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mapping0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mdct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\psy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\registry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\res0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\sharedbook.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\smallft.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\synthesis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\vorbisenc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\backends.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\bitrate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codebook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\include\vorbis\codec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\codec_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\envelope.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\floor_all.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\floor\floor_books.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\highlevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lookup_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lpc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\lsp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\masking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\mdct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\os.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\psy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_44.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\psych_8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\registry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\coupled\res_books_stereo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\books\uncoupled\res_books_uncoupled.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_44.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_44u.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\residue_8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\scales.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_22.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_44.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_44u.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\modes\setup_X.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\newvorbis\lib\window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tommi\Downloads\stepmania-ddr-5_1-new\extern\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D7C1805B-F9EF-38C6-A67C-6A2A6277F2A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4BB1411C-FAC6-37C7-9E89-9F6769750062}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
